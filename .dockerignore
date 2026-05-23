@@ -1,0 +1,49 @@
+# Environment (use docker-compose env vars instead)
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.venv/
+venv/
+*.egg
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+frontend/out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project output / artifacts
+backend/runs/
+*.log
+
+# Result images (not needed at runtime)
+Marker_Reults_images/
+
+# Git
+.git/
+.gitignore
+
+# Docker files themselves
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Docs
+README.md
+
+# Test files (already removed)

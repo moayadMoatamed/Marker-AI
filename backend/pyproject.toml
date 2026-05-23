@@ -1,0 +1,21 @@
+[project]
+name = "logo-system-backend"
+version = "0.1.0"
+description = "Backend pipeline for conceptual logo generation"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.0",
+    "httpx>=0.27",
+    "structlog>=24.0",
+    "openai>=1.0",
+    "python-dotenv>=1.0",
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "langchain>=0.3",
+    "langgraph>=0.2",
+    "langchain-deepseek>=0.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
