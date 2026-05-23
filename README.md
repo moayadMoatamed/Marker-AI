@@ -1,3 +1,6 @@
+<img width="564" height="128" alt="image" src="https://github.com/user-attachments/assets/928fe1ef-2efc-48aa-9d4a-e1f26ed8cd5f" />
+
+
 # Marker AI — Conceptual Logo Generation
 
 **Marker AI** is a logo concept generation system that mechanizes the creative interrogation a designer performs on a brand brief. It deconstructs the brand into atomic facts, maps visual opportunities, exhaustively evaluates design techniques, synthesizes concepts, and critiques its own output — producing logo candidates that are genuinely clever, not just stylistically polished.
